@@ -2,14 +2,14 @@
 title: "Lab 2: Introduction to Data"
 author: "Your Name"
 date: "Date of Lab Session"
-output: oilabs::lab_report
+output: labs2316::lab_report
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
-library(oilabs)
+library(labs2316)
 data("nycflights")
 ```
 

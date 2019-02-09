@@ -2,7 +2,7 @@
 title: "Lab 1: Introduction to R"
 author: "Your Name"
 date: "Date of Lab Session"
-output: oilabs::lab_report
+output: labs2316::lab_report
 ---
 
 ```{r setup, include = FALSE}
