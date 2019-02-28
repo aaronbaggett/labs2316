@@ -2,14 +2,14 @@
 title: "Lab 2: Introduction to Data"
 author: "Your Name"
 date: "Date of Lab Session"
-output: oilabs::lab_report
+output: labs2316::lab_report
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
-library(oilabs)
+library(labs2316)
 data("nycflights")
 ```
 
@@ -18,7 +18,7 @@ data("nycflights")
 ### Exercise 1:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -27,7 +27,7 @@ data("nycflights")
 ### Exercise 2:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -36,7 +36,7 @@ data("nycflights")
 ### Exercise 3:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -45,7 +45,7 @@ data("nycflights")
 ### Exercise 4:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -64,14 +64,14 @@ data("nycflights")
 ### Exercise 7:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 
 ### Exercise 8:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -80,7 +80,7 @@ data("nycflights")
 ### Exercise 9:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
