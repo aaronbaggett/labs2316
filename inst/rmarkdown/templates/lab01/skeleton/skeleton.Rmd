@@ -7,8 +7,7 @@ output: labs2316::lab_report
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(dplyr)
-library(ggplot2)
+library(tidyverse)
 library(labs2316)
 ```
 
