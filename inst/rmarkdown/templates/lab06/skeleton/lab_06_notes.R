@@ -1,6 +1,6 @@
 # ----------------------------------------------------
 # PSYC 2316: Statistics for the Social Sciences
-# Lab 01 Assignment Notes
+# Lab 06 Assignment Notes
 # Aaron R. Baggett, Ph.D.
 # ----------------------------------------------------
 
@@ -27,6 +27,6 @@ if (! require(labs2316)){
 library(labs2316)
 
 # ----------------------------------------------------
-# Begin Lab 01 Notes 
+# Begin Lab 06 Notes 
 # ----------------------------------------------------
 
