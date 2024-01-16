@@ -1,7 +1,7 @@
 ---
 title: "Lab 01: Introduction to R"
 author: "Your Name"
-date: "Date of Lab Session"
+date: "DUE DATE"
 output: labs2316::lab_report
 ---
 

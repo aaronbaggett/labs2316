@@ -11,7 +11,6 @@
 # Do this once, each time you log back into R.
 # ----------------------------------------------------
 library(tidyverse)
-library(devtools)
 library(labs2316)
 
 
