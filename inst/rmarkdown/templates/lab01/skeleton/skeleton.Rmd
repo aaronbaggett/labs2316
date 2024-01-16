@@ -1,5 +1,5 @@
 ---
-title: "Lab 1: Introduction to R"
+title: "Lab 01: Introduction to R"
 author: "Your Name"
 date: "Date of Lab Session"
 output: labs2316::lab_report
@@ -8,20 +8,9 @@ output: labs2316::lab_report
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # Load package libraries
-if(!require(tidyverse)){
-  install.packages("tidyverse")
-  library(tidyverse)
-}
-
-if(!require(devtools)){
-  install.packages("devtools")
-  library(devtools)
-}
-
-if(!require(labs2316)){
-  devtools::install_github("aaronbaggett/labs2316")
-  library(labs2316)
-}
+library(tidyverse)
+library(devtools)
+library(labs2316)
 ```
 
 * * *

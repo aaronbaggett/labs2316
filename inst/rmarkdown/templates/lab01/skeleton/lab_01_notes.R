@@ -1,32 +1,51 @@
-# ----------------------------------------------------
+# -------------------------------------------------------------------------
 # PSYC 2316: Statistics for the Social Sciences
 # Lab 01 Assignment Notes
-# Aaron R. Baggett, Ph.D.
-# ----------------------------------------------------
+# Compliments of the `r emo::ji("chef")`
+# -------------------------------------------------------------------------
 
-# ----------------------------------------------------
-# Install and/or Load Package Libraries
 
+# Load package libraries --------------------------------------------------
 # PRO TIP:
 # Highlight lines 11-24 then press -> Run above
 # Do this once, each time you log back into R.
 # ----------------------------------------------------
-if (! require(tidyverse)){
-  install.packages("tidyverse")
-}
 library(tidyverse)
-
-if (! require(devtools)){
-  install.packages("devtools")
-}
 library(devtools)
-
-if (! require(labs2316)){
-  devtools::install_github("aaronbaggett/labs2316")
-}
 library(labs2316)
 
-# ----------------------------------------------------
-# Begin Lab 01 Notes 
-# ----------------------------------------------------
 
+
+# Begin lab notes ---------------------------------------------------------
+
+# 01
+
+
+
+
+# 02
+
+
+
+
+# 03
+
+
+
+
+# 04
+
+
+
+
+# 05
+
+
+
+
+# 06
+
+
+
+
+# 07
