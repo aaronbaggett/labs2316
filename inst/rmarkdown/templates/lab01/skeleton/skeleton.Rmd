@@ -1,7 +1,7 @@
 ---
 title: "Lab 01: Introduction to R"
 author: "Your Name"
-date: "DUE DATE"
+date: "`r Sys.Date()`"
 output: labs2316::lab_report
 ---
 

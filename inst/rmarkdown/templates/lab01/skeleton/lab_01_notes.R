@@ -1,7 +1,6 @@
 # -------------------------------------------------------------------------
 # PSYC 2316: Statistics for the Social Sciences
 # Lab 01 Assignment Notes
-# Compliments of the `r emo::ji("chef")`
 # -------------------------------------------------------------------------
 
 
