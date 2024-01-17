@@ -6,7 +6,7 @@
 
 # Load package libraries --------------------------------------------------
 # PRO TIP:
-# Highlight lines 11-24 then press -> Run above
+# Highlight lines 12-13 then press -> Run above
 # Do this once, each time you log back into R.
 # ----------------------------------------------------
 library(tidyverse)
