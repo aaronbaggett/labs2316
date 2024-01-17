@@ -26,6 +26,7 @@ data(arbuthnot)
 # REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 ### Exercise 2:
 
@@ -53,6 +54,10 @@ data(arbuthnot)
 
 
 ### Exercise 5:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
