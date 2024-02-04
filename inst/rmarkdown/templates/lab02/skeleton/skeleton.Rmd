@@ -1,28 +1,15 @@
 ---
-title: "Lab 2: Introduction to Data"
+title: "Lab 2: Manipulating Data"
 author: "Your Name"
-date: "Date of Lab Session"
+date: "`r Sys.Date()`"
 output: labs2316::lab_report
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # Load package libraries
-if(!require(tidyverse)){
-  install.packages("tidyverse")
-  library(tidyverse)
-}
-
-if(!require(devtools)){
-  install.packages("devtools")
-  library(devtools)
-}
-
-if(!require(labs2316)){
-  devtools::install_github("aaronbaggett/labs2316")
-  library(labs2316)
-}
-
+library(tidyverse)
+library(labs2316)
 data("nycflights")
 ```
 
