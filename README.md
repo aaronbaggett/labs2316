@@ -1,4 +1,2 @@
-[![Travis-CI Build Status](https://travis-ci.org/andrewpbray/oilabs.svg?branch=master)](https://travis-ci.org/andrewpbray/oilabs)
-
-# oilabs
-An R package that contains the data sets, custom functions, documentation, and templates for the OpenIntro Labs.
+# labs2316
+An R package that contains the data sets, custom functions, documentation, and templates for all lab assignmets in PSYC 2316: Statistics for the Social Sciences.
