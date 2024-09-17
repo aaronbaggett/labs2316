@@ -1,5 +1,8 @@
 ---
-title: "Lab 01: Introduction to R"
+title: |
+  | MDAP-01:
+  | DESCRIBING AND
+  | COMPARING GROUPS
 author: "Your Name"
 date: "`r Sys.Date()`"
 output: labs2316::lab_report
