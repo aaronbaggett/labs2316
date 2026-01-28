@@ -1,8 +1,5 @@
 ---
-title: |
-  | MDAP-01:
-  | DESCRIBING AND
-  | COMPARING GROUPS
+title: "MDAP-01"
 author: "Your Name"
 date: "`r Sys.Date()`"
 output: labs2316::lab_report
